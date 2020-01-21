@@ -10,7 +10,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 
 
 **Part 1: Introduction**
-- Course overview, introduction to deep learning
+- [L01](L01-intro): Course overview, introduction to deep learning
 - The brief history of deep learning
 - Single-layer neural networks: The perceptron algorithm
 
