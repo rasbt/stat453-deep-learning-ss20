@@ -12,7 +12,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 **Part 1: Introduction**
 - [L01: Course overview, introduction to deep learning](L01-intro)
 - [L02: The brief history of deep learning](L02-dl-history)
-- Single-layer neural networks: The perceptron algorithm
+- [L03: Single-layer neural networks: The perceptron algorithm](L03-perceptron)
 
 **Part 2: Mathematical and computational foundations**
 -	Linear algebra and calculus for deep learning
