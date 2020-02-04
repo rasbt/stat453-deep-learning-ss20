@@ -15,7 +15,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 - [L03: Single-layer neural networks: The perceptron algorithm](L03-perceptron)
 
 **Part 2: Mathematical and computational foundations**
--	Linear algebra and calculus for deep learning
+-	[Linear algebra and calculus for deep learning](L04-linalg)
 -	Parameter optimization with gradient descent
 -	Automatic differentiation
 -	Cluster and cloud computing resources
