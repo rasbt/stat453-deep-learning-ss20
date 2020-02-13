@@ -17,7 +17,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 **Part 2: Mathematical and computational foundations**
 -	[L04: Linear algebra and calculus for deep learning](L04-linalg)
 -	[L05: Parameter optimization with gradient descent](L05-grad-descent)
--	Automatic differentiation
+-	[L06: Automatic differentiation & PyTorch](L06-pytorch)
 -	Cluster and cloud computing resources
 
 **Part 3: Introduction to neural networks**
