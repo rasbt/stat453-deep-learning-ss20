@@ -18,10 +18,10 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 -	[L04: Linear algebra and calculus for deep learning](L04-linalg)
 -	[L05: Parameter optimization with gradient descent](L05-grad-descent)
 -	[L06: Automatic differentiation & PyTorch](L06-pytorch)
--	Cluster and cloud computing resources
+
 
 **Part 3: Introduction to neural networks**
--	Multinomial logistic regression
+-	[L07: Multinomial logistic regression](L07-logistic)
 -	Multilayer perceptrons
 -	Regularization
 -	Input normalization and weight initialization
