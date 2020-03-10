@@ -15,25 +15,25 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 - [L03: Single-layer neural networks: The perceptron algorithm](L03-perceptron)
 
 **Part 2: Mathematical and computational foundations**
--	[L04: Linear algebra and calculus for deep learning](L04-linalg)
--	[L05: Parameter optimization with gradient descent](L05-grad-descent)
--	[L06: Automatic differentiation & PyTorch](L06-pytorch)
+- [L04: Linear algebra and calculus for deep learning](L04-linalg)
+- [L05: Parameter optimization with gradient descent](L05-grad-descent)
+- [L06: Automatic differentiation & PyTorch](L06-pytorch)
 
 
 **Part 3: Introduction to neural networks**
--	[L07: Multinomial logistic regression](L07-logistic)
--	[L08: Multilayer perceptrons](L08-mlp)
--	Regularization
--	Input normalization and weight initialization
--	Learning rates and advanced optimization algorithms
+- [L07: Multinomial logistic regression](L07-logistic)
+- [L08: Multilayer perceptrons](L08-mlp)
+- [L09: Regularization](L09-regularization)
+- Input normalization and weight initialization
+- Learning rates and advanced optimization algorithms
 - Project proposal (online submission)
 
 **Part 4: Deep learning for computer vision and language modeling**
 - Introduction to convolutional neural networks 1
--	Introduction to convolutional neural networks 2
--	Introduction to recurrent neural networks 1
--	Introduction to recurrent neural networks 2
--	Midterm exam
+- Introduction to convolutional neural networks 2
+- Introduction to recurrent neural networks 1
+- Introduction to recurrent neural networks 2
+- Midterm exam
 
 **Part 5: Deep generative models**
 - Autoencoders
