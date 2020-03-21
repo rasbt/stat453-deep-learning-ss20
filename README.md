@@ -24,17 +24,15 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 **Part 3: Introduction to neural networks**
 - [L07: Multinomial logistic regression](L07-logistic)
 - [L08: Multilayer perceptrons](L08-mlp)
-- [L09: Regularization](L09-regularization)
+- [L09: Regularization](L09-regularization)[ [Recording](https://www.youtube.com/watch?v=KwaxQKiLkFY) ]
 - Input normalization and weight initialization
 - Learning rates and advanced optimization algorithms
-- Project proposal (online submission)
 
 **Part 4: Deep learning for computer vision and language modeling**
 - Introduction to convolutional neural networks 1
 - Introduction to convolutional neural networks 2
 - Introduction to recurrent neural networks 1
 - Introduction to recurrent neural networks 2
-- Midterm exam
 
 **Part 5: Deep generative models**
 - Autoencoders
