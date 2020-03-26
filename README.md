@@ -25,7 +25,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 - [L07: Multinomial logistic regression](L07-logistic)
 - [L08: Multilayer perceptrons](L08-mlp)
 - [L09: Regularization](L09-regularization) [ [Recording](https://www.youtube.com/watch?v=KwaxQKiLkFY) ]
-- [L10: Input normalization and weight initialization](L10_norm-and-init) [ [Recording Part 1/2](https://www.youtube.com/watch?v=QQD9Y2FiotQ) ]
+- [L10: Input normalization and weight initialization](L10_norm-and-init) [ [Recording Part 1/2](https://www.youtube.com/watch?v=QQD9Y2FiotQ) ]  [ [Recording Part 2/2](https://www.youtube.com/watch?v=H_hrdUUrjho) ]
 - Learning rates and advanced optimization algorithms
 
 **Part 4: Deep learning for computer vision and language modeling**
