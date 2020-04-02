@@ -29,7 +29,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 - [L11: Learning rates and advanced optimization algorithms](L11-optim) [ [Recording](https://www.youtube.com/watch?v=MyWwxEHC5zE) ]
 
 **Part 4: Deep learning for computer vision and language modeling**
-- [L12: Introduction to convolutional neural networks 1](L12-cnns) [ [Recording](https://www.youtube.com/watch?v=7ftuaShIzhc] ]
+- [L12: Introduction to convolutional neural networks 1](L12-cnns) [ [Recording](https://www.youtube.com/watch?v=7ftuaShIzhc) ]
 - Introduction to convolutional neural networks 2
 - Introduction to recurrent neural networks 1
 - Introduction to recurrent neural networks 2
