@@ -30,21 +30,20 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 
 **Part 4: Deep learning for computer vision and language modeling**
 - [L12: Introduction to convolutional neural networks 1](L12-cnns) [ [Recording](https://www.youtube.com/watch?v=7ftuaShIzhc) ]
-- Introduction to convolutional neural networks 2
+- [L13: Introduction to convolutional neural networks 2](L13-cnns-part2) [ [Recording 1/2](https://www.youtube.com/watch?v=mZmyp0JjH6s) [Recording 2/2](https://www.youtube.com/watch?v=ji05GxulVuY) ]
 - Introduction to recurrent neural networks 1
-- Introduction to recurrent neural networks 2
+~~- Introduction to recurrent neural networks 2~~
 
 **Part 5: Deep generative models**
 - Autoencoders
-- Autoregressive models
+~~- Autoregressive models~~
 - Variational autoencoders
-- Normalizing Flow Models
+~~- Normalizing Flow Models~~
 - Generative adversarial networks 1
-- Generative adversarial networks 2
-- Evaluating generative models
+~~- Generative adversarial networks 2~~
+~~- Evaluating generative models~~
 
 **Part 6: Class projects and final exam**
-- Course summary
 - Student project presentations 1
 - Student project presentations 2
 - Student project presentations 3
