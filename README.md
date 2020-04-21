@@ -35,11 +35,11 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 - ~~Introduction to recurrent neural networks 2~~
 
 **Part 5: Deep generative models**
-- Autoencoders
+- [L15: Autoencoders](https://github.com/rasbt/stat453-deep-learning-ss20/tree/master/L15-autoencoder) [ [Recording](https://youtu.be/iddlDHXDxc0) ]
 - ~~Autoregressive models~~
-- Variational autoencoders
+- ~~Variational autoencoders~~
 - ~~Normalizing Flow Models~~
-- Generative adversarial networks 1
+- [L16: Generative adversarial networks 1](https://github.com/rasbt/stat453-deep-learning-ss20/tree/master/L16-gan) [ [Recording](https://youtu.be/aka29GqbsEM) ]
 - ~~Generative adversarial networks 2~~
 - ~~Evaluating generative models~~
 
