@@ -44,7 +44,7 @@ Below is a list of the topics I am planning to cover. Note that while these topi
 - ~~Evaluating generative models~~
 
 **Part 6: Class projects and final exam**
-- Student project presentations 1
+- Student project presentations 1 [ [Recording](https://www.youtube.com/watch?v=e_I0q3mmfw4) ]
 - Student project presentations 2
 - Student project presentations 3
 - Final exam
